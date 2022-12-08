@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hangthovietnhat
-- 👀 I’m interested in building mutual relationship
-- 🌱 I’m currently learning 
+- 👀 I’m interested in building mutual relationship, train life through wisdom and love
+- 🌱 I’m currently learning artificial intelligence and data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
